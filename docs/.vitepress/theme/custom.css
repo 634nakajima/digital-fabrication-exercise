@@ -1,0 +1,10 @@
+.VPNavBar .logo {
+  height: 20px !important;
+  width: 20px !important;
+}
+
+.VPHero .text {
+  font-size: 32px !important;
+  line-height: 1.4 !important;
+  white-space: pre-line !important;
+}
