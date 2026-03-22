@@ -19,11 +19,11 @@
 
 | ファイル | 用途 |
 |----------|------|
-| [1. パーツのコンポーネント化.f3d](/files/01-component.f3d) | コンポーネントの作り方を練習 |
-| [2. ジョイント 剛性.f3d](/files/02-joint-rigid.f3d) | テーブルの組み立て |
-| [3. ジョイント 剛性 練習.f3d](/files/03-joint-rigid-practice.f3d) | 箱の組み立て練習 |
-| [4. ジョイント 回転・スライダ.f3d](/files/04-joint-revolute-slider.f3d) | 回転・スライダの使い方 |
-| [5. ジョイント 回転・スライダ 練習.f3d](/files/05-joint-revolute-slider-practice.f3d) | 回転棒・スライド棒の練習 |
+| [1. パーツのコンポーネント化.f3d](/digital-fabrication-exercise/files/01-component.f3d) | コンポーネントの作り方を練習 |
+| [2. ジョイント 剛性.f3d](/digital-fabrication-exercise/files/02-joint-rigid.f3d) | テーブルの組み立て |
+| [3. ジョイント 剛性 練習.f3d](/digital-fabrication-exercise/files/03-joint-rigid-practice.f3d) | 箱の組み立て練習 |
+| [4. ジョイント 回転・スライダ.f3d](/digital-fabrication-exercise/files/04-joint-revolute-slider.f3d) | 回転・スライダの使い方 |
+| [5. ジョイント 回転・スライダ 練習.f3d](/digital-fabrication-exercise/files/05-joint-revolute-slider-practice.f3d) | 回転棒・スライド棒の練習 |
 
 ---
 
