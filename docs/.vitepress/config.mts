@@ -77,11 +77,11 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/digital-fabrication-exercise/favicon.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/digital-fabrication-exercise/DFlogo.png' }]
   ],
 
   themeConfig: {
-    logo: '/favicon.png',
+    logo: '/DFlogo.png',
     search: {
       provider: 'local'
     },

@@ -5,7 +5,7 @@ hero:
   text: "Fusion 360 による3Dモデリングと\nからくり作品制作"
   tagline: 3D CADの基礎から機構設計、3Dプリンタ出力までを学び、オリジナルのからくり作品を制作しよう
   image:
-    src: /favicon.png
+    src: /DFlogo.png
     alt: デジタルファブリケーション演習 ロゴ
   actions:
     - theme: brand

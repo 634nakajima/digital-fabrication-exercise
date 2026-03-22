@@ -5,7 +5,7 @@ hero:
   text: "3D Modeling with Fusion 360 and\nKarakuri Mechanism Creation"
   tagline: Learn 3D CAD basics, mechanism design, and 3D printing to create your own mechanical art
   image:
-    src: /favicon.png
+    src: /DFlogo.png
     alt: Digital Fabrication Exercise Logo
   actions:
     - theme: brand
