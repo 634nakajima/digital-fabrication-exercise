@@ -21,12 +21,12 @@
 
 | ファイル | 用途 |
 |----------|------|
-| [6. ギアを作る.f3d](/digital-fabrication-exercise/files/06-gear.f3d) | ギア作成のテンプレート（軸と土台が用意済み） |
-| [7. ハンドルを作る.f3d](/digital-fabrication-exercise/files/07-handle.f3d) | ハンドル作成の練習 |
-| [8. ギアを直角に組み合わせる.f3d](/digital-fabrication-exercise/files/08-gear-right-angle.f3d) | 直角ギアの配置 |
-| [9. 寸法・位置の調整.f3d](/digital-fabrication-exercise/files/09-dimension-adjust.f3d) | パラメータ管理の練習 |
-| [10. 位置・寸法の調整 練習.f3d](/digital-fabrication-exercise/files/10-dimension-adjust-practice.f3d) | 位置合わせの練習 |
-| [11. DXFファイルの書き出し.f3d](/digital-fabrication-exercise/files/11-dxf-export.f3d) | DXFエクスポートの練習 |
+| <a href="/digital-fabrication-exercise/files/06-gear.f3d" download>6. ギアを作る.f3d</a> | ギア作成のテンプレート（軸と土台が用意済み） |
+| <a href="/digital-fabrication-exercise/files/07-handle.f3d" download>7. ハンドルを作る.f3d</a> | ハンドル作成の練習 |
+| <a href="/digital-fabrication-exercise/files/08-gear-right-angle.f3d" download>8. ギアを直角に組み合わせる.f3d</a> | 直角ギアの配置 |
+| <a href="/digital-fabrication-exercise/files/09-dimension-adjust.f3d" download>9. 寸法・位置の調整.f3d</a> | パラメータ管理の練習 |
+| <a href="/digital-fabrication-exercise/files/10-dimension-adjust-practice.f3d" download>10. 位置・寸法の調整 練習.f3d</a> | 位置合わせの練習 |
+| <a href="/digital-fabrication-exercise/files/11-dxf-export.f3d" download>11. DXFファイルの書き出し.f3d</a> | DXFエクスポートの練習 |
 
 ---
 

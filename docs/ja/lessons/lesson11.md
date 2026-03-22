@@ -19,9 +19,9 @@
 
 | ファイル | 用途 |
 |----------|------|
-| [12. カム機構.f3d](/digital-fabrication-exercise/files/12-cam.f3d) | カム機構のテンプレート（フレーム・軸・ハンドルが用意済み） |
-| [13. 揺動クランク.f3d](/digital-fabrication-exercise/files/13-crank.f3d) | 揺動クランクの組み立て練習（参考） |
-| [13. 揺動クランク（完成版）.f3d](/digital-fabrication-exercise/files/13-crank-complete.f3d) | 揺動クランクの完成見本（参考） |
+| <a href="/digital-fabrication-exercise/files/12-cam.f3d" download>12. カム機構.f3d</a> | カム機構のテンプレート（フレーム・軸・ハンドルが用意済み） |
+| <a href="/digital-fabrication-exercise/files/13-crank.f3d" download>13. 揺動クランク.f3d</a> | 揺動クランクの組み立て練習（参考） |
+| <a href="/digital-fabrication-exercise/files/13-crank-complete.f3d" download>13. 揺動クランク（完成版）.f3d</a> | 揺動クランクの完成見本（参考） |
 
 ::: tip コンポーネントの整理
 Fusion のブラウザパネルでコンポーネントが増えてきたら、以下のような親コンポーネントで整理しましょう：
