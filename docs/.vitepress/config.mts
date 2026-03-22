@@ -4,6 +4,7 @@ export default defineConfig({
   base: '/digital-fabrication-exercise/',
   title: 'デジタルファブリケーション演習',
   description: 'Fusion 360 を使った3Dモデリングとからくり作品制作',
+  ignoreDeadLinks: [/\.f3d$/],
 
   locales: {
     ja: {
