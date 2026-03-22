@@ -7,6 +7,18 @@
   font-size: 13px !important;
 }
 
+.medium-zoom-overlay {
+  z-index: 30;
+}
+
+.medium-zoom-image--opened {
+  z-index: 31;
+}
+
+.main img {
+  cursor: zoom-in;
+}
+
 .VPHero .text {
   font-size: 32px !important;
   line-height: 1.4 !important;
