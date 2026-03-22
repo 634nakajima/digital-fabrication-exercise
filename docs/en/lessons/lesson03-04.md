@@ -2,17 +2,17 @@
 
 ## Goals
 
-- Learn the basic operations of Fusion 360 (viewport controls, solid creation, sketching)
+- Learn the basic operations of Fusion (viewport controls, solid creation, sketching)
 - Design and model a pen holder, then export as `.f3d` and `.stl` files
 - (Optional) Design an original pen holder and 3D print it
 
 ---
 
-## Part 1: Fusion 360 Basics
+## Part 1: Fusion Basics
 
 ### 1-1. Starting Fusion & Mouse Controls
 
-1. Launch Fusion 360 and create a new project
+1. Launch Fusion and create a new project
 2. Practice basic mouse controls:
    - **Middle-click drag**: Pan the viewport
    - **Scroll wheel**: Zoom in/out

@@ -3,7 +3,7 @@ layout: home
 hero:
   name: デジタルファブリケーション演習
   text: Digital Fabrication Exercise
-  tagline: Fusion 360 による3Dモデリングとからくり作品制作 / 3D Modeling & Karakuri Creation with Fusion 360
+  tagline: Fusion による3Dモデリングとからくり作品制作 / 3D Modeling & Karakuri Creation with Fusion
   image:
     src: /DFlogo.png
     alt: デジタルファブリケーション演習 ロゴ

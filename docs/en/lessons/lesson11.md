@@ -2,7 +2,7 @@
 
 ## Goals
 
-- Understand cam mechanisms and design them in Fusion 360
+- Understand cam mechanisms and design them in Fusion
 - Understand oscillating crank mechanisms
 - Convert rotary motion to reciprocating or oscillating motion
 

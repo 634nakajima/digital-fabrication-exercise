@@ -2,7 +2,7 @@
 
 ## Goals
 
-- Design gears in Fusion 360
+- Design gears in Fusion
 - Create a crank arm (handle) and combine it with gears
 - Learn to combine gears at right angles (bevel gears)
 - Export DXF files for laser cutting
