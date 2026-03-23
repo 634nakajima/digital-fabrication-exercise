@@ -17,7 +17,7 @@
 | [Fusion基本操作 1.1.5](https://youtu.be/GeA-KPGVbGE) | 計測・複数選択・表示/非表示・保存・バージョン管理 |
 | [Fusion基本操作 1.2.1](https://youtu.be/F7VGEetNxW8) | スケッチの作成（線分・曲線・スプライン） |
 | [Fusion基本操作 1.2.2](https://youtu.be/ESDeHybFhy4) | トリム・オフセット・ミラー・パターン・スケッチ寸法 |
-| Fusion基本操作 1.2.3 | プロジェクトファイルのエクスポート（.f3d / .stl） |
+| [Fusion基本操作 1.2.3](https://youtu.be/4qwRxg2rbo8) | プロジェクトファイルのエクスポート（.f3d / .stl） |
 | ペン立ての作成 | サンプルに沿ったペン立ての制作（空洞化・斜めカット・文字彫刻・フィレット） |
 
 ---
