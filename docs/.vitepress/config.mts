@@ -42,6 +42,47 @@ export default defineConfig({
         docFooter: { prev: '前のページ', next: '次のページ' }
       }
     },
+    zh: {
+      label: '中文',
+      lang: 'zh-Hans',
+      link: '/zh/',
+      themeConfig: {
+        nav: [
+          { text: '首页', link: '/zh/' },
+          { text: '课程列表', link: '/zh/lessons/lesson03-04' }
+        ],
+        sidebar: {
+          '/zh/lessons/': [
+            {
+              text: '前半：基础与技术掌握',
+              items: [
+                { text: '第3・4讲 Fusion基本操作与笔筒制作', link: '/zh/lessons/lesson03-04' },
+                { text: '第9讲 接头', link: '/zh/lessons/lesson09' },
+                { text: '第10讲 齿轮机构', link: '/zh/lessons/lesson10' },
+                { text: '第11讲 凸轮机构', link: '/zh/lessons/lesson11' }
+              ]
+            },
+            {
+              text: '后半：作品制作',
+              items: [
+                { text: '第12讲 作品制作 1', link: '/zh/lessons/lesson12' },
+                { text: '第13讲 作品制作 2', link: '/zh/lessons/lesson13' },
+                { text: '第14讲 作品完成与视频拍摄', link: '/zh/lessons/lesson14' },
+                { text: '第15讲 作品发表与讲评', link: '/zh/lessons/lesson15' }
+              ]
+            }
+          ]
+        },
+        outline: { label: '目录' },
+        docFooter: { prev: '上一页', next: '下一页' },
+        darkModeSwitchLabel: '外观',
+        lightModeSwitchTitle: '切换到浅色模式',
+        darkModeSwitchTitle: '切换到深色模式',
+        sidebarMenuLabel: '菜单',
+        returnToTopLabel: '返回顶部',
+        langMenuLabel: '切换语言'
+      }
+    },
     en: {
       label: 'English',
       lang: 'en',
@@ -84,7 +125,30 @@ export default defineConfig({
   themeConfig: {
     logo: '/DFlogo.png',
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        locales: {
+          zh: {
+            translations: {
+              button: {
+                buttonText: '搜索',
+                buttonAriaLabel: '搜索'
+              },
+              modal: {
+                displayDetails: '显示详细列表',
+                resetButtonTitle: '清除查询条件',
+                backButtonTitle: '返回',
+                noResultsText: '无法找到相关结果',
+                footer: {
+                  selectText: '选择',
+                  navigateText: '切换',
+                  closeText: '关闭'
+                }
+              }
+            }
+          }
+        }
+      }
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/' }
