@@ -83,6 +83,47 @@ export default defineConfig({
         langMenuLabel: '切换语言'
       }
     },
+    ko: {
+      label: '한국어',
+      lang: 'ko',
+      link: '/ko/',
+      themeConfig: {
+        nav: [
+          { text: '홈', link: '/ko/' },
+          { text: '수업 목록', link: '/ko/lessons/lesson03-04' }
+        ],
+        sidebar: {
+          '/ko/lessons/': [
+            {
+              text: '전반부: 기초와 기술 습득',
+              items: [
+                { text: '제3・4강 Fusion 기본 조작과 연필꽂이', link: '/ko/lessons/lesson03-04' },
+                { text: '제9강 조인트', link: '/ko/lessons/lesson09' },
+                { text: '제10강 기어 기구', link: '/ko/lessons/lesson10' },
+                { text: '제11강 캠 기구', link: '/ko/lessons/lesson11' }
+              ]
+            },
+            {
+              text: '후반부: 작품 제작',
+              items: [
+                { text: '제12강 작품 제작 1', link: '/ko/lessons/lesson12' },
+                { text: '제13강 작품 제작 2', link: '/ko/lessons/lesson13' },
+                { text: '제14강 작품 완성과 영상 촬영', link: '/ko/lessons/lesson14' },
+                { text: '제15강 작품 발표와 강평', link: '/ko/lessons/lesson15' }
+              ]
+            }
+          ]
+        },
+        outline: { label: '목차' },
+        docFooter: { prev: '이전 페이지', next: '다음 페이지' },
+        darkModeSwitchLabel: '테마',
+        lightModeSwitchTitle: '라이트 모드로 전환',
+        darkModeSwitchTitle: '다크 모드로 전환',
+        sidebarMenuLabel: '메뉴',
+        returnToTopLabel: '맨 위로',
+        langMenuLabel: '언어 변경'
+      }
+    },
     en: {
       label: 'English',
       lang: 'en',
@@ -143,6 +184,25 @@ export default defineConfig({
                   selectText: '选择',
                   navigateText: '切换',
                   closeText: '关闭'
+                }
+              }
+            }
+          },
+          ko: {
+            translations: {
+              button: {
+                buttonText: '검색',
+                buttonAriaLabel: '검색'
+              },
+              modal: {
+                displayDetails: '상세 목록 표시',
+                resetButtonTitle: '검색어 지우기',
+                backButtonTitle: '뒤로 가기',
+                noResultsText: '검색 결과를 찾을 수 없습니다',
+                footer: {
+                  selectText: '선택',
+                  navigateText: '이동',
+                  closeText: '닫기'
                 }
               }
             }
